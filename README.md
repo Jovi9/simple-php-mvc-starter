@@ -14,7 +14,7 @@ Sample application using PHP and MySQL.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/Jovi9/simple-php-mvc-starter.git && cd sample-crud-app
+git clone https://github.com/Jovi9/simple-php-mvc-starter.git && cd simple-php-mvc-starter
 ```
 
 ### Run the following command to enable composer class autoloader
